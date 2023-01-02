@@ -1,0 +1,55 @@
+id,title,description,image_link,link,product_type,brand,price,availability,item_group_id,checkout_url,additional_image_link,sale_price_effective_date,sale_price,condition,visibility,gender,color,size,pattern,google_product_category,default_product,variant
+wc_post_id_1023,"Laptop 12","WooCommerce installs some custom tables to store its data during install. More about tables installed: https://github.com/woocommerce/woocommerce/wiki/Database-Description Tables can be removed when uninstalling WooCommerce, not during deactivation. This doesn’t happen automatically. To delete the WooCommerce tables from the database entirely, follow the instructions at Uninstalling WooCommerce. 
+   
+Installed Taxonomies and Post Types 
+Taxonomies and Post Types Two major building blocks in the WordPress environment are taxonomies and post types. Taxonomy. A grouping of post types, such as categories and tags. Post types. With post types, WordPress creates a distinction in different content types. For example, by default WordPress has different post types for “posts”, “pages”, “media”, etc. WooCommerce Taxonomies […] 
+   
+Installing and Uninstalling WooCommerce 
+Overview WooCommerce can be installed and uninstalled the same as any other WordPress plugin. Full installation and configuration of WooCommerce on your site is an additional optional step to help with full setup, this is available in the Setup wizard. Take a moment to review the server requirements before insta",http://localhost/meroshop/wp-content/uploads/2022/09/istockphoto-1305999733-1024x1024-1.jpg,http://localhost/meroshop/product/laptop-12/,"laptop","localhost",90000NPR,in stock,wc_post_id_1023,,"http://localhost/meroshop/wp-content/uploads/2022/09/Untitled-design.gif,http://localhost/meroshop/wp-content/uploads/woocommerce-placeholder.png",1970-01-29T00:00+00:00/2038-01-17T23:59+00:00,85000NPR,new,published,,,,,,,
+wc_post_id_1022,"Laptop 11","Laptop 11",http://localhost/meroshop/wp-content/uploads/2022/09/istockphoto-1305999733-1024x1024-1.jpg,http://localhost/meroshop/product/1022/,"laptop, Mobiles","localhost",90000NPR,in stock,wc_post_id_1022,,"http://localhost/meroshop/wp-content/uploads/2022/09/Untitled-design.gif,http://localhost/meroshop/wp-content/uploads/woocommerce-placeholder.png,http://localhost/meroshop/wp-content/uploads/2022/09/shirt.png",1970-01-29T00:00+00:00/2038-01-17T23:59+00:00,85000NPR,new,published,,,,,,,
+wc_post_id_1021,"Dell Laptop","Dell Laptop",http://localhost/meroshop/wp-content/uploads/2022/09/istockphoto-1305999733-1024x1024-1.jpg,http://localhost/meroshop/product/dell-laptop/,"laptop","localhost",150000NPR,in stock,wc_post_id_1021,,"http://localhost/meroshop/wp-content/uploads/2022/09/cropped-istockphoto-1305999733-1024x1024-1.jpg",1970-01-29T00:00+00:00/2038-01-17T23:59+00:00,105000NPR,new,published,,,,,,,
+wc_post_id_1020,"Laptop","Laptop",http://localhost/meroshop/wp-content/uploads/2021/05/blog.svg,http://localhost/meroshop/product/laptop/,"laptop","localhost",90000NPR,in stock,wc_post_id_1020,,"http://localhost/meroshop/wp-content/uploads/2022/09/istockphoto-1305999733-1024x1024-1.jpg,http://localhost/meroshop/wp-content/uploads/2022/09/cropped-istockphoto-1305999733-1024x1024-1.jpg",1970-01-29T00:00+00:00/2038-01-17T23:59+00:00,85000NPR,new,published,,,,,,,
+wc_post_id_991,"Watch","Processor 
+12th Generation Intel® Core™ i7-12700H (24MB Cache, up to 4.7 GHz, 14 cores) 
+   
+Operating System 
+Windows 11 Home Single Language, English 
+   
+Video Card 
+NVIDIA® GeForce RTX™ 3050 Ti 4GB GDDR6 [40W] 
+   
+Display 
+15.6', UHD+ 3840x2400, 60Hz, Touch, Anti-Reflect, 500 nit, InfinityEdge 
+  DisplayDisplayDisplay 
+  DisplayDisplay",http://localhost/meroshop/wp-content/uploads/2022/09/shirtw-1.png,http://localhost/meroshop/product/watch/,"laptop, Mobiles","localhost",800NPR,in stock,wc_post_id_991,,"http://localhost/meroshop/wp-content/uploads/2022/09/wattch-1.png,http://localhost/meroshop/wp-content/uploads/2022/09/iPhone-14-Transparent-PNG-1.png,http://localhost/meroshop/wp-content/uploads/2022/09/f-1.png",1970-01-29T00:00+00:00/2038-01-17T23:59+00:00,650NPR,new,published,,,,,,,
+wc_post_id_12,"Samsung Glaxy A7","Processor 
+12th Generation Intel® Core™ i7-12700H (24MB Cache, up to 4.7 GHz, 14 cores) 
+   
+Operating System 
+Windows 11 Home Single Language, English 
+   
+Video Card 
+NVIDIA® GeForce RTX™ 3050 Ti 4GB GDDR6 [40W] 
+   
+Display 
+15.6', UHD+ 3840x2400, 60Hz, Touch, Anti-Reflect, 500 nit, InfinityEdge 
+   
+Memory * 
+16 GB, 2 x 8 GB, DDR5, 4800 MHz, dual-channel 
+   
+Hard Drive 
+512 GB, M.2, PCIe NVMe, SSD 
+   
+Choose your colour 
+Platinum Silver exterior, Black interior 
+   
+Microsoft Office 
+Office Home & Student 2021 
+   
+Security Software 
+McAfee® LiveSafe™ 12-month subscription 
+   
+Support Services 
+1Y Premium Support Plus and Onsite Service 
+   
+Accidental Damage Protection",http://localhost/meroshop/wp-content/uploads/2022/09/iPhone-14-Transparent-PNG.png,http://localhost/meroshop/product/samsung-glaxy-a7/,"Uncategorized","localhost",345NPR,in stock,wc_post_id_12,,"http://localhost/meroshop/wp-content/uploads/2022/09/Untitled-design.gif",1970-01-29T00:00+00:00/2038-01-17T23:59+00:00,340NPR,new,published,,,,,,,
